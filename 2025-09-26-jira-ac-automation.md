@@ -48,7 +48,7 @@ This created inefficiencies for cloud engineers verifying new accounts.
 1. Developed a **new Jira automation rule** in the sandbox environment.  
 2. Tested the rule by creating tickets to verify AC replacement and removal of unnecessary subtasks.  
 3. Exported the rule as a JSON file and submitted a **Pull Request** to the team repository.  
-4. Sanitized sensitive info (API tokens, URLs, email addresses) before committing.  
+4. Sanitised sensitive info (API tokens, URLs, email addresses) before committing.  
 5. Verified versioning and applied `CR/non-CR` labels.  
 6. Deprecated the old template ticket and linked it appropriately.
 
@@ -89,3 +89,4 @@ This created inefficiencies for cloud engineers verifying new accounts.
 - Sandbox testing environment  
 - Deprecated template ticket  
 - Team GitHub repository for automation rules
+
